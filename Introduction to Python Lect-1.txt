@@ -1,0 +1,73 @@
+What is Python?
+	Python is High-level  , interpreted , interactive and Object-Oriented Programming Language
+
+
+What is High-level?
+	Humans Freindly language
+
+What is Low Level?
+	->It Understands machine (Binary Language -(0 and 1))
+
+what is interpreted ?
+	Python execute the each code line by line
+
+What is Compiled?
+	 converting a program into machine language. Most high-level languages have a compiler or toolkits to compile programs
+
+
+Why python is interactive language?
+	Python is an interactive language because it allows users to interact with the interpreter directly to write and execute code
+
+What is Object-Oriented Programming Language?
+	Object-oriented programming (OOP) is a programming paradigm that uses objects to represent problem elements. 
+
+
+
+Applications of Python:--
+
+1) Google App Engine
+2) Maya 
+2) Linux Weekly News
+3) Youtube Sharing Service
+4) Netflix 
+5) Web search System for the Google 
+6) NSA(Natonal Security Agency)
+7) iRobots uses  python
+8) Raspberry Pi 
+
+
+
+What the are the Features of Python?
+1) Simple and Easy-too-learn
+2) Object-Oriented
+3) Platform Independent(Portable)
+4) Scalable:-(Functional Language)
+
+
+
+
+
+What are the platforms we have for python?
+1) IDLE
+
+2) PyCharm
+
+3) Spyder 
+
+4) Jupyter Notebook
+
+5) Google Colab:
+
+
+
+python progam saved by the extension i.e - .py
+
+Google Colab :-- .ipynb (interactive python notebook)
+
+
+
+	
+
+
+	
+	
